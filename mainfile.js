@@ -26,3 +26,4 @@ if(typeof this.table[name] === "undefined"){
 			}
 		}
 		
+//i like doing code yes
