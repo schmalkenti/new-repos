@@ -12,7 +12,7 @@ if(typeof this.table[name] === "undefined"){
 				return func(...args);
 			};
 		}else{
-			console.warn("Unable to bind table function, name already in use", name);
+			console.warn("Unable to bind table function, name already in use", name);//hello
 		}
 	}
 
